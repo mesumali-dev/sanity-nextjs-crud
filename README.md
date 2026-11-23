@@ -48,4 +48,4 @@ npm run dev
 ---
 
 ## 👨‍💻 Author
-**Syed Mesum Ali** — [@mesumali-dev](https://github.com/mesumali-dev)
+**Syed Mesum Ali** - [@mesumali-dev](https://github.com/mesumali-dev)
