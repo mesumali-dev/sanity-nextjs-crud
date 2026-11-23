@@ -1,4 +1,4 @@
-# 📝 Sanity.io Headless CMS & Next.js CRUD Application
+# Sanity.io Headless CMS & Next.js CRUD Application
 
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![Sanity](https://img.shields.io/badge/Sanity-v3-red?style=flat-square&logo=sanity)](https://www.sanity.io/)
@@ -9,7 +9,7 @@
 
 ---
 
-## 🌟 Features
+## Features
 
 - **Complete CRUD Operations:** Create, retrieve, modify, and delete content entries dynamically.
 - **Sanity Studio Integration:** Embedded Sanity Studio for structured editorial workflow.
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Architecture
+## Architecture
 
 - **Frontend:** Next.js (App Router), TypeScript, Tailwind CSS
 - **CMS Backend:** Sanity.io Studio v3
@@ -27,7 +27,7 @@
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 ```bash
 # Clone repo
@@ -47,5 +47,5 @@ npm run dev
 
 ---
 
-## 👨‍💻 Author
+## ‍ Author
 **Syed Mesum Ali** - [@mesumali-dev](https://github.com/mesumali-dev)
